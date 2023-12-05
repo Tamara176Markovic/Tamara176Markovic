@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tamara176Markovic
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning Java Script
+- 👀 I’m interested in Web Developing
+- 🌱 I’m currently learning Java Script, NodeJs
 - 💞️ I’m looking for mentor
 
 <!---
